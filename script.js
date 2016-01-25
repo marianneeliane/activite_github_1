@@ -1,0 +1,1 @@
+ceci est le contenu initial de mon fichier script.js réalisé en local !
